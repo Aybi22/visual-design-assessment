@@ -21,6 +21,13 @@ body{
           
             
 }
+.animate{ 
+
+    margin:auto;
+    padding:50px;
+}
+
+
 ul{
     text-align:center;
 }
