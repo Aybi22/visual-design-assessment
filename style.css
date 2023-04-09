@@ -151,7 +151,7 @@ p{
 .flex{
       display:grid;
       grid-template-columns: 1fr 1fr;
-      gap:21px;
+      gap:45px;
 }
 footer{
          text-align:center;
